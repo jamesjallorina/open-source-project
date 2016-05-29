@@ -1,0 +1,19 @@
+Project: System Monitoring for Linux Machine
+
+Features: 
+	1.) Monitors available disk space and free space
+	2.) Displays total numbers of mounted drives
+	3.) Check Memory Usage
+
+Linux Commands Used:
+	1.) df command - Report file system disk space usage
+	2.) free command - Display amount of free and used memory in the system
+
+Note: 
+	This Project is open source and may subject to any modification to be used by the user/developer
+for its specific requirements. However, any distribution involving money is strictly prohibited.
+
+	Any suggestions is very welcome for the improvement of this application.
+
+Yours Sincerely,
+James Marjun Jallorina, ECE
