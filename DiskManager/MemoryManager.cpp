@@ -42,6 +42,6 @@ int main(int argc, char *argv[])
 	ofstream   fout("/dev/null");
 	cout.rdbuf(fout.rdbuf()); // redirect 'cout' to a 'fout'
 	startSystemMonitoring();
-	exit(EXIT_SUCCESS); */
+	exit(EXIT_SUCCESS);
 	return 0;
 }
